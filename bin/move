@@ -9,4 +9,4 @@ pick = gets
 input_to_index(pick)
 
 board = ["X", " ", " ", " ", " ", " ", " ", " ", " "]
-display_board(board)
+display_board(input_to_index)
