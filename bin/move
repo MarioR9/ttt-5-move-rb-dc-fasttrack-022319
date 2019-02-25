@@ -7,5 +7,6 @@ puts "Welcome to Tic Tac Toe!"
 puts "Pick position on the board you would like to fill."
 pick = gets
 input_to_index(pick)
+
 board = ["X", " ", " ", " ", " ", " ", " ", " ", " "]
 display_board(board)
