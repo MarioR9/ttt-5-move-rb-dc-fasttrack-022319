@@ -8,5 +8,5 @@ puts "Pick position on the board you would like to fill."
 pick = gets
 input_to_index(pick)
 
-board = ["X", " ", " ", " ", " ", " ", " ", " ", " "]
+#board = ["X", " ", " ", " ", " ", " ", " ", " ", " "]
 display_board(1)
